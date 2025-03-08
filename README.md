@@ -14,7 +14,7 @@ Code Lookup: Retrieves and displays descriptive error strings for the entered co
 Clone the repository:
 
 
-git clone https://github.com/your_username/error-code-lookup-gui.git
+git clone https://github.com/your_username/error-code-lookup-gui.git](https://github.com/apewalkers/PS5-Software-ErrorLookup
 Open a terminal in this location:
 If you're using a file explorer, right-click the folder and select "Open in Terminal" or similar, depending on your operating system.
 Run the application:
