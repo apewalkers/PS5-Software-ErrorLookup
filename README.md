@@ -28,6 +28,8 @@ Click the "Search" Icon-button
 
 View the corresponding error string in the display area.
 https://imgur.com/a/zlgmOXw
+![Image](https://github.com/user-attachments/assets/f4eb5ee3-f70c-4ee5-8f0e-06ded8a69509)
+![Image](https://i.imgur.com/vtkfeJv.png)
 ![alt text]([https://imgur.com/a/zlgmOXw](https://i.imgur.com/vtkfeJv.png))
 
 
