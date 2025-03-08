@@ -32,15 +32,25 @@ View the corresponding error string in the display area.
 error-code-lookup-gui/
 │
 ├── main.py               # Main script to run the application
+
 ├── Default.csv           # CSV file containing error codes and strings
+
 ├── Assets/               # Folder containing image assets
+
 │   ├── a.png             # Application icon or visual element
+
 │   ├── 1.png             # GUI decorative image
+
 │   ├── 2.png             # Additional image for interface
+
 │   ├── Search.png        # Search button graphic
+
 ├── README.md             # Project documentation
+
 ├── requirements.txt      # Required dependencies (if any)
+
 └── LICENSE               # License for the project
+
 
 # 🛡️ License
 This project is licensed under the MIT License.
