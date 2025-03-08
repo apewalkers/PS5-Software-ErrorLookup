@@ -29,8 +29,8 @@ Click the "Search" Icon-button
 View the corresponding error string in the display area.
 https://imgur.com/a/zlgmOXw
 ![Image](https://github.com/user-attachments/assets/f4eb5ee3-f70c-4ee5-8f0e-06ded8a69509)
-![Image](https://i.imgur.com/vtkfeJv.png)
-![alt text]([https://imgur.com/a/zlgmOXw](https://i.imgur.com/vtkfeJv.png))
+
+
 
 
 
@@ -69,3 +69,5 @@ Default.csv database originally from https://www.psdevwiki.com/ps5/Error_Codes u
 If you find this project helpful and would like to support its development, consider making a donation via PayPal. 
 https://www.paypal.com/paypalme/dannyjohn08
 Your generosity is greatly appreciated!
+
+![Image](https://i.imgur.com/vtkfeJv.png)
