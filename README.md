@@ -27,6 +27,10 @@ Use the input field to type a software error code.
 Click the "Search" Icon-button
 
 View the corresponding error string in the display area.
+https://imgur.com/a/zlgmOXw
+![alt text](https://imgur.com/a/zlgmOXw)
+
+
 
 # 📂 File Structure
 error-code-lookup-gui/
